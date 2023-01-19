@@ -25,7 +25,7 @@ const handleClick = (element) => {
     checkForWin();
   }
 };
-
+// ===================================================================================
 const addMarker = (id) => {
   console.log(`We'll place a mark on square: ${id}`);
   // @TODO, Mix & Match.
