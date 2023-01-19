@@ -131,6 +131,7 @@ const resetBoard = () => {
   ];
 };
 
+
 // **BONUSES**
 
 // 1. Display the current player's turn
